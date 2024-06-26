@@ -21,3 +21,7 @@
 * Verificar se um número é maior ou menor do que outro utilizando estruturas condicionais (if/else) no programa;
 * Utilizar o loop "while" para repetir um bloco de código enquanto uma determinada condição for verdadeira;
 * Implementar um contador de tentativas para acompanhar e exibir a quantidade de vezes que o usuário tentou adivinhar um número secreto.
+### 04. Boas Práticas de Programação 👍
+* Evitar código duplicado utilizando operador ternário;
+* Analisar a documentação e encontrar informações relevantes para o desenvolvimento do nosso programa;
+* Utilizar a função Math.random() para gerar um número aleatório.
