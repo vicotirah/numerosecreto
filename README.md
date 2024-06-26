@@ -13,3 +13,7 @@
 * Usar o prompt para interagir com a pessoa permitindo inserir um valor e armazenando em uma variável;
 * Criar um if.
 ### 02. Condicionais e concatenação 📖
+* Utilizar o console para testar e depurar nosso código, exibindo mensagens e valores durante a execução do programa;
+* Utilizar estruturas condicionais (if/else) para criar lógicas que permitem ao programa tomar decisões com base em condições específicas;
+*Implementar um bloco de código para exibir uma mensagem caso o chute do usuário não seja igual ao número secreto;
+* Usar template strings para concatenar o número secreto com o valor armazenado em uma variável e exibir uma mensagem personalizada.
