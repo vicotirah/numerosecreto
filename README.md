@@ -38,6 +38,8 @@
 * Criar manipulações de palavras e números de forma dinâmica com JavaS.
 ## Aulas 👩🏼‍🏫
 ### 01. Interagindo com HTML 🌠
+* Manipular o conteúdo dos elementos HTML, como o H1 e o parágrafo (p), utilizando JavaScript para alterar dinamicamente o texto exibido na página;
+* Entender a importância da interação entre o HTML e o JavaScript para criar páginas web dinâmicas e interativas.
 ### 02. Funções 🧮
 ### 03. Reiniciando o jogo 🔄
 ### 04. Listas 📋
