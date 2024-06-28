@@ -1,5 +1,8 @@
 # Jogo Número Secreto ❓
-### Lógica de Programação: Javascript
+
+### Lógica de Programação: JavaScript
+
+## Curso: Mergulhe em Programação com JavaScript 🤿
 ## Objetivos 🎯
 * Exibir mensagens na tela de forma interativa;
 * Utilizar variáveis no desenvolvimento de software;
@@ -25,3 +28,17 @@
 * Evitar código duplicado utilizando operador ternário;
 * Analisar a documentação e encontrar informações relevantes para o desenvolvimento do nosso programa;
 * Utilizar a função Math.random() para gerar um número aleatório.
+
+# Curso: Explore Funções e Listas 🔭
+## Objetivos 🎯
+* Aprender o que são funções e como usar o JavaScript para manipular elementos na tela;
+* Desenvolver ainda mais sua lógica de programação inspirado num projeto real;
+* Usar o Github e Vercel para publicar seus projetos;
+* Utilizar listas;
+* Criar manipulações de palavras e números de forma dinâmica com JavaS.
+## Aulas 👩🏼‍🏫
+### 01. Interagindo com HTML 🌠
+### 02. Funções 🧮
+### 03. Reiniciando o jogo 🔄
+### 04. Listas 📋
+### 05. Publicando o projeto 📮
