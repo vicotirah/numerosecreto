@@ -41,6 +41,9 @@
 * Manipular o conteúdo dos elementos HTML, como o H1 e o parágrafo (p), utilizando JavaScript para alterar dinamicamente o texto exibido na página;
 * Entender a importância da interação entre o HTML e o JavaScript para criar páginas web dinâmicas e interativas.
 ### 02. Funções 🧮
+* Criar uma função em JavaScript que recebe 2 parâmetros para gerar um número aleatório e entendemos como usar a estrutura de uma função para encapsular um trecho de código reutilizável;
+* Utilizar a palavra-chave "return" dentro da função para retornar o valor do número aleatório gerado e criamos outra função chamada exibirMensagemInicialNaTela que não possui retorno nem parâmetros;
+* Compreender a diferença entre funções com retorno e funções sem retorno e aprendemos como chamar e invocar a função para exibir uma mensagem inicial na tela;
 ### 03. Reiniciando o jogo 🔄
 ### 04. Listas 📋
 ### 05. Publicando o projeto 📮
