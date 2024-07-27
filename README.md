@@ -45,5 +45,8 @@
 * Utilizar a palavra-chave "return" dentro da função para retornar o valor do número aleatório gerado e criamos outra função chamada exibirMensagemInicialNaTela que não possui retorno nem parâmetros;
 * Compreender a diferença entre funções com retorno e funções sem retorno e aprendemos como chamar e invocar a função para exibir uma mensagem inicial na tela;
 ### 03. Reiniciando o jogo 🔄
+* Criar um programa para verificar se o “chute” inserido é igual ao número secreto definido.
+* Utilizar estruturas condicionais para tomar decisões com base no resultado dessa comparação;
 ### 04. Listas 📋
+* Criar listas em JavaScript
 ### 05. Publicando o projeto 📮
